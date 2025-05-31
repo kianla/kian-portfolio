@@ -1,17 +1,9 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 
-const Footer = ({ footer }) => {
-  switch (footer) {
-    case 1:
+const Footer = () => {
+  
       return <Footer1 />;
-
-    case 2:
-      return <Footer2 />;
-
-    default:
-      return <Footer1 />;
-  }
 };
 
 export default Footer;
