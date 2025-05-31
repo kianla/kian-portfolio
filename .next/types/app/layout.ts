@@ -1,4 +1,4 @@
-// File: D:\Work\projects\kian-portfolio\market.mrcode.ir-noxfolio-react-v1.0\market.mrcode.ir-noxfolio-react-v1.0\React Template\app\layout.js
+// File: D:\Work\projects\kian-portfolio\market.mrcode.ir-noxfolio-react-v1.0\market.mrcode.ir-noxfolio-react-v1.0\kian-portfolio\app\layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

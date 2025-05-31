@@ -8,7 +8,7 @@ const Index2 = () => {
     <NoxfolioLayout header={2} footer={2} onePageMenu={true}>
       {/*End Hidden Sidebar */}
       {/* Hero Section Start */}
-      <Hero2 />
+   
       {/* Hero Section End */}
       {/* About Area start */}
       <About2 />

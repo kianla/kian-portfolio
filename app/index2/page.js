@@ -11,11 +11,7 @@ const Index2 = () => {
   return (
     <NoxfolioLayout header={2} footer={2}>
       {/*End Hidden Sidebar */}
-      {/* Hero Section Start */}
-      <Hero2 />
-      {/* Hero Section End */}
-      {/* About Area start */}
-      <About2 />
+
       {/* About Area end */}
       {/* Headline area start */}
       <div className="headline-area-h2 rel z-2 py-25">
