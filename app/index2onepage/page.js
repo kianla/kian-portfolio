@@ -1,15 +1,6 @@
-import { About2 } from "@/components/About";
-import { Blog2 } from "@/components/Blog";
-import { Clients2 } from "@/components/Clients";
-import { Contact2 } from "@/components/Contact";
-import { Hero2 } from "@/components/Hero";
+
 import LetsTalk from "@/components/LetsTalk";
-import { Pricing2 } from "@/components/Pricing";
-import { Projects2 } from "@/components/Projects";
-import { Resume2 } from "@/components/Resume";
 import ScrollTop from "@/components/ScrollTop";
-import { Services2 } from "@/components/Services";
-import { Skill2 } from "@/components/Skill";
 import NoxfolioLayout from "@/layout/NoxfolioLayout";
 
 const Index2 = () => {
@@ -144,14 +135,7 @@ const Index2 = () => {
         </div>
       </div>
       {/* Headline Area end */}
-      {/* Resume Area start */}
-      <Resume2 />
-      {/* Resume Area end */}
-      {/* Services Area start */}
-      <Services2 />
-      {/* Services Area end */}
-      {/* Skill Area start */}
-      <Skill2 />
+
       {/* Skill Area end */}
       {/* Headline area start */}
       <div className="headline-area rel z-2 py-25">
@@ -276,7 +260,7 @@ const Index2 = () => {
       </div>
       {/* Headline Area end */}
       {/* Projects Area start */}
-      <Projects2 />
+
       {/* Projects Area end */}
       {/* Awward Area start */}
       <section
@@ -360,13 +344,7 @@ const Index2 = () => {
       </section>
       {/* Awward Area end */}
       {/* Pricing Area start */}
-      <Pricing2 />
-      {/* Pricing Area end */}
-      {/* Client Logo start */}
-      <Clients2 />
-      {/* Client Logo end */}
-      {/* Contact Area start */}
-      <Contact2 />
+
       {/* Contact Area end */}
       {/* Headline area start */}
       <div className="headline-area pt-60 bgc-black rel z-2">
