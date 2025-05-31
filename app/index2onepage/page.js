@@ -385,7 +385,7 @@ const Index2 = () => {
       </div>
       {/* Headline Area end */}
       {/* Blog Area start */}
-      <Blog2 />
+      
       {/* Blog Area end */}
       {/* Lets Talk Area start */}
       <LetsTalk />
